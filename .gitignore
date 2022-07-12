@@ -1,5 +1,5 @@
 .env
-.mongo-data
+/mongo-data
 
 # compiled output
 /dist
